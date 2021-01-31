@@ -7,7 +7,7 @@ import (
 	"gopkg.in/ini.v1"
 )
 
-const FilePath = "/etc/syncEngine.ini"
+const FilePath = "/etc/amqp_tools.ini"
 
 type RabbitMQConfig struct {
 	Username string
